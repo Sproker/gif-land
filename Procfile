@@ -1,0 +1,1 @@
+web: cd backend-node/src && node server.js && cd ../../frontend-react && react-scripts start && node server.js
